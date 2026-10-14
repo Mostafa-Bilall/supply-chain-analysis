@@ -1,0 +1,583 @@
+Date,Product,Category,Channel,Segment,Region,Price,Quantity,Discount,Sales,Year,Months,Days,Quarter
+2020-01-01,Pumps,Accessories,Whole Sale,Business,Alex,10,2,0.11,17.8,2020,1,1,1
+2020-01-01,Brakes,Components,Retail,Business,Alex,5,3,0.15,12.75,2020,1,1,1
+2020-01-01,Bike Racks,Accessories,Whole Sale,Consumer,Alex,10,1,0.12,8.8,2020,1,1,1
+2020-01-01,Shorts,Clothing,Retail,Consumer,Alex,12,1,0.15,10.2,2020,1,1,1
+2020-01-01,Handlebars,Components,Whole Sale,Consumer,Alex,7,3,0.11,18.69,2020,1,1,1
+2020-01-01,Brakes,Components,Whole Sale,Business,Alex,5,2,0.15,8.5,2020,1,1,1
+2020-01-01,Bib-Shorts,Clothing,Whole Sale,Business,Alex,12,1,0.13,10.44,2020,1,1,1
+2020-01-01,Helmets,Accessories,Door to Door,Business,Alex,11,1,0.11,9.790000000000001,2020,1,1,1
+2020-01-01,Pumps,Accessories,Whole Sale,Consumer,Alex,10,2,0.11,17.8,2020,1,1,1
+2020-01-01,Lights,Accessories,Door to Door,Consumer,Alex,7,3,0.14,18.06,2020,1,1,1
+2020-01-01,Vests,Clothing,Door to Door,Business,Alex,11,2,0.1,19.8,2020,1,1,1
+2020-01-01,Helmets,Accessories,Retail,Business,Alex,11,1,0.15,9.35,2020,1,1,1
+2020-01-01,Chains,Components,Key Accounts,Consumer,Alex,6,1,0.1,5.4,2020,1,1,1
+2020-01-01,Jerseys,Clothing,Whole Sale,Business,Alex,15,1,0.14,12.9,2020,1,1,1
+2020-01-01,Shorts,Clothing,Key Accounts,Business,Alex,12,1,0.12,10.56,2020,1,1,1
+2020-01-01,Lights,Accessories,Key Accounts,Consumer,Alex,7,2,0.1,12.6,2020,1,1,1
+2020-01-01,Caps,Clothing,Retail,Consumer,Alex,13,2,0.1,23.400000000000002,2020,1,1,1
+2020-01-01,Tights,Clothing,Whole Sale,Consumer,Alex,12,1,0.14,10.32,2020,1,1,1
+2020-01-01,Road Bikes,Bikes,Retail,Consumer,Alex,74,2,0.13,128.76,2020,1,1,1
+2020-01-01,Tires and Tubes,Accessories,Whole Sale,Business,Alex,8,3,0.15,20.4,2020,1,1,1
+2020-01-01,Jerseys,Clothing,Whole Sale,Business,Alex,15,1,0.13,13.05,2020,1,1,1
+2020-01-01,Bib-Shorts,Clothing,Key Accounts,Consumer,Alex,12,2,0.13,20.88,2020,1,1,1
+2020-01-01,Saddles,Components,Key Accounts,Consumer,Alex,3,3,0.14,7.74,2020,1,1,1
+2020-01-01,Road Bikes,Bikes,Whole Sale,Business,Alex,74,3,0.14,190.92,2020,1,1,1
+2020-01-01,Locks,Accessories,Retail,Business,Alex,9,2,0.14,15.48,2020,1,1,1
+2020-01-01,Wheels,Components,Whole Sale,Consumer,Alex,4,1,0.15,3.4,2020,1,1,1
+2020-01-01,Cargo Bike,Bikes,Retail,Business,Alex,246,2,0.12,432.96,2020,1,1,1
+2020-01-02,Mountain Bikes,Bikes,Door to Door,Consumer,Alex,223,3,0.13,582.03,2020,1,2,1
+2020-01-02,Pumps,Accessories,Door to Door,Business,Alex,10,3,0.11,26.7,2020,1,2,1
+2020-01-02,Caps,Clothing,Retail,Business,Alex,13,3,0.11,34.71,2020,1,2,1
+2020-01-02,Socks,Clothing,Key Accounts,Consumer,Alex,13,1,0.1,11.700000000000001,2020,1,2,1
+2020-01-02,Touring Bikes,Bikes,Door to Door,Consumer,Alex,130,1,0.11,115.7,2020,1,2,1
+2020-01-02,Caps,Clothing,Whole Sale,Business,Alex,13,3,0.13,33.93,2020,1,2,1
+2020-01-02,Shorts,Clothing,Door to Door,Consumer,Alex,12,3,0.1,32.4,2020,1,2,1
+2020-01-02,Road Bikes,Bikes,Whole Sale,Consumer,Alex,74,2,0.11,131.72,2020,1,2,1
+2020-01-02,Jerseys,Clothing,Door to Door,Business,Alex,15,1,0.11,13.35,2020,1,2,1
+2020-01-02,Road Bikes,Bikes,Whole Sale,Business,Alex,74,3,0.1,199.8,2020,1,2,1
+2020-01-02,Chains,Components,Retail,Consumer,Alex,6,2,0.15,10.2,2020,1,2,1
+2020-01-02,Lights,Accessories,Whole Sale,Consumer,Alex,7,1,0.1,6.3,2020,1,2,1
+2020-01-02,Wheels,Components,Whole Sale,Consumer,Alex,4,1,0.13,3.48,2020,1,2,1
+2020-01-02,Touring Bikes,Bikes,Key Accounts,Consumer,Alex,130,3,0.12,343.2,2020,1,2,1
+2020-01-02,Jerseys,Clothing,Door to Door,Consumer,Alex,15,3,0.14,38.7,2020,1,2,1
+2020-01-02,Pumps,Accessories,Whole Sale,Business,Alex,10,3,0.14,25.8,2020,1,2,1
+2020-01-02,Handlebars,Components,Door to Door,Consumer,Alex,7,2,0.11,12.46,2020,1,2,1
+2020-01-02,Lights,Accessories,Whole Sale,Business,Alex,7,3,0.1,18.900000000000002,2020,1,2,1
+2020-01-02,Road Bikes,Bikes,Door to Door,Consumer,Alex,74,1,0.13,64.38,2020,1,2,1
+2020-01-02,Jerseys,Clothing,Door to Door,Business,Alex,15,3,0.1,40.5,2020,1,2,1
+2020-01-02,Tights,Clothing,Key Accounts,Consumer,Alex,12,1,0.11,10.68,2020,1,2,1
+2020-01-02,Vests,Clothing,Key Accounts,Consumer,Alex,11,3,0.13,28.71,2020,1,2,1
+2020-01-02,Handlebars,Components,Whole Sale,Consumer,Alex,7,3,0.11,18.69,2020,1,2,1
+2020-01-02,Chains,Components,Door to Door,Consumer,Alex,6,1,0.11,5.34,2020,1,2,1
+2020-01-02,Locks,Accessories,Retail,Business,Alex,9,1,0.13,7.83,2020,1,2,1
+2020-01-02,Jerseys,Clothing,Door to Door,Consumer,Alex,15,2,0.15,25.5,2020,1,2,1
+2020-01-02,Tights,Clothing,Retail,Business,Alex,12,3,0.14,30.96,2020,1,2,1
+2020-01-02,Vests,Clothing,Key Accounts,Consumer,Alex,11,2,0.11,19.580000000000002,2020,1,2,1
+2020-01-03,Gloves,Clothing,Whole Sale,Consumer,Alex,15,3,0.14,38.7,2020,1,3,1
+2020-01-03,Mountain Bikes,Bikes,Key Accounts,Consumer,Alex,223,2,0.13,388.02,2020,1,3,1
+2020-01-03,Vests,Clothing,Key Accounts,Consumer,Alex,11,2,0.1,19.8,2020,1,3,1
+2020-01-03,Vests,Clothing,Door to Door,Business,Alex,11,2,0.11,19.580000000000002,2020,1,3,1
+2020-01-03,Pumps,Accessories,Key Accounts,Consumer,Alex,10,2,0.14,17.2,2020,1,3,1
+2020-01-03,Bib-Shorts,Clothing,Door to Door,Consumer,Alex,12,1,0.13,10.44,2020,1,3,1
+2020-01-03,Mountain Bikes,Bikes,Retail,Business,Alex,223,2,0.1,401.40000000000003,2020,1,3,1
+2020-01-03,Saddles,Components,Door to Door,Business,Alex,3,3,0.13,7.83,2020,1,3,1
+2020-01-03,Bib-Shorts,Clothing,Whole Sale,Consumer,Alex,12,1,0.13,10.44,2020,1,3,1
+2020-01-03,Gloves,Clothing,Door to Door,Consumer,Alex,15,3,0.13,39.15,2020,1,3,1
+2020-01-03,Pedals,Components,Door to Door,Business,Alex,6,2,0.11,10.68,2020,1,3,1
+2020-01-03,Locks,Accessories,Door to Door,Business,Alex,9,2,0.11,16.02,2020,1,3,1
+2020-01-03,Bike Racks,Accessories,Door to Door,Business,Alex,10,2,0.14,17.2,2020,1,3,1
+2020-01-03,Road Bikes,Bikes,Door to Door,Consumer,Alex,74,2,0.12,130.24,2020,1,3,1
+2020-01-03,Vests,Clothing,Retail,Business,Alex,11,1,0.12,9.68,2020,1,3,1
+2020-01-03,Pedals,Components,Retail,Consumer,Alex,6,2,0.15,10.2,2020,1,3,1
+2020-01-03,Shorts,Clothing,Retail,Consumer,Alex,12,1,0.12,10.56,2020,1,3,1
+2020-01-03,Locks,Accessories,Key Accounts,Consumer,Alex,9,1,0.14,7.74,2020,1,3,1
+2020-01-03,Road Bikes,Bikes,Door to Door,Business,Alex,74,2,0.15,125.8,2020,1,3,1
+2020-01-03,Road Bikes,Bikes,Retail,Consumer,Alex,74,3,0.12,195.36,2020,1,3,1
+2020-01-03,Handlebars,Components,Door to Door,Consumer,Alex,7,2,0.11,12.46,2020,1,3,1
+2020-01-03,Shorts,Clothing,Whole Sale,Consumer,Alex,12,2,0.12,21.12,2020,1,3,1
+2020-01-03,Wheels,Components,Retail,Consumer,Alex,4,3,0.11,10.68,2020,1,3,1
+2020-01-03,Socks,Clothing,Key Accounts,Business,Alex,13,1,0.15,11.049999999999999,2020,1,3,1
+2020-01-04,Tires and Tubes,Accessories,Retail,Business,Alex,8,3,0.15,20.4,2020,1,4,1
+2020-01-04,Helmets,Accessories,Door to Door,Business,Alex,11,3,0.13,28.71,2020,1,4,1
+2020-01-04,Caps,Clothing,Whole Sale,Business,Alex,13,2,0.13,22.62,2020,1,4,1
+2020-01-04,Wheels,Components,Door to Door,Consumer,Alex,4,1,0.15,3.4,2020,1,4,1
+2020-01-04,Helmets,Accessories,Retail,Consumer,Alex,11,1,0.14,9.459999999999999,2020,1,4,1
+2020-01-04,Wheels,Components,Retail,Consumer,Alex,4,2,0.1,7.2,2020,1,4,1
+2020-01-04,Saddles,Components,Whole Sale,Business,Alex,3,3,0.12,7.92,2020,1,4,1
+2020-01-04,Pedals,Components,Whole Sale,Business,Alex,6,2,0.1,10.8,2020,1,4,1
+2020-01-04,Brakes,Components,Door to Door,Consumer,Alex,5,3,0.11,13.35,2020,1,4,1
+2020-01-04,Bottom Brackets,Components,Key Accounts,Business,Alex,3,3,0.1,8.1,2020,1,4,1
+2020-01-04,Cargo Bike,Bikes,Whole Sale,Consumer,Alex,246,3,0.12,649.44,2020,1,4,1
+2020-01-04,Chains,Components,Retail,Consumer,Alex,6,1,0.15,5.1,2020,1,4,1
+2020-01-04,Bottom Brackets,Components,Key Accounts,Business,Alex,3,2,0.13,5.22,2020,1,4,1
+2020-01-04,Socks,Clothing,Retail,Business,Alex,13,2,0.13,22.62,2020,1,4,1
+2020-01-04,Bottom Brackets,Components,Retail,Consumer,Alex,3,3,0.11,8.01,2020,1,4,1
+2020-01-04,Gloves,Clothing,Key Accounts,Consumer,Alex,15,3,0.12,39.6,2020,1,4,1
+2020-01-04,Locks,Accessories,Retail,Business,Alex,9,2,0.14,15.48,2020,1,4,1
+2020-01-04,Wheels,Components,Whole Sale,Business,Alex,4,3,0.13,10.44,2020,1,4,1
+2020-01-04,Touring Bikes,Bikes,Whole Sale,Business,Alex,130,1,0.15,110.5,2020,1,4,1
+2020-01-04,Caps,Clothing,Key Accounts,Consumer,Alex,13,3,0.15,33.15,2020,1,4,1
+2020-01-04,Helmets,Accessories,Retail,Consumer,Alex,11,1,0.13,9.57,2020,1,4,1
+2020-01-04,Tights,Clothing,Retail,Consumer,Alex,12,2,0.12,21.12,2020,1,4,1
+2020-01-04,Road Bikes,Bikes,Key Accounts,Consumer,Alex,74,1,0.12,65.12,2020,1,4,1
+2020-01-04,Locks,Accessories,Key Accounts,Consumer,Alex,9,2,0.13,15.66,2020,1,4,1
+2020-01-04,Bib-Shorts,Clothing,Key Accounts,Business,Alex,12,3,0.13,31.32,2020,1,4,1
+2020-01-04,Locks,Accessories,Whole Sale,Consumer,Alex,9,2,0.13,15.66,2020,1,4,1
+2020-01-04,Mountain Bikes,Bikes,Door to Door,Consumer,Alex,223,1,0.14,191.78,2020,1,4,1
+2020-01-04,Lights,Accessories,Key Accounts,Business,Alex,7,3,0.14,18.06,2020,1,4,1
+2020-01-04,Bottom Brackets,Components,Whole Sale,Consumer,Alex,3,1,0.12,2.64,2020,1,4,1
+2020-01-04,Road Bikes,Bikes,Retail,Consumer,Alex,74,1,0.14,63.64,2020,1,4,1
+2020-01-04,Saddles,Components,Whole Sale,Consumer,Alex,3,3,0.11,8.01,2020,1,4,1
+2020-01-05,Chains,Components,Whole Sale,Business,Alex,6,1,0.13,5.22,2020,1,5,1
+2020-01-05,Bike Racks,Accessories,Whole Sale,Business,Alex,10,2,0.1,18.0,2020,1,5,1
+2020-01-05,Wheels,Components,Retail,Consumer,Alex,4,1,0.13,3.48,2020,1,5,1
+2020-01-05,Wheels,Components,Whole Sale,Business,Alex,4,1,0.14,3.44,2020,1,5,1
+2020-01-05,Vests,Clothing,Retail,Business,Alex,11,3,0.13,28.71,2020,1,5,1
+2020-01-05,Bottom Brackets,Components,Retail,Consumer,Alex,3,2,0.12,5.28,2020,1,5,1
+2020-01-05,Lights,Accessories,Whole Sale,Business,Alex,7,1,0.14,6.02,2020,1,5,1
+2020-01-05,Brakes,Components,Whole Sale,Business,Alex,5,3,0.15,12.75,2020,1,5,1
+2020-01-05,Tires and Tubes,Accessories,Door to Door,Consumer,Alex,8,2,0.1,14.4,2020,1,5,1
+2020-01-05,Pedals,Components,Key Accounts,Business,Alex,6,2,0.1,10.8,2020,1,5,1
+2020-01-05,Tires and Tubes,Accessories,Whole Sale,Business,Alex,8,2,0.12,14.08,2020,1,5,1
+2020-01-05,Brakes,Components,Retail,Business,Alex,5,1,0.11,4.45,2020,1,5,1
+2020-01-05,Locks,Accessories,Whole Sale,Consumer,Alex,9,2,0.14,15.48,2020,1,5,1
+2020-01-05,Tires and Tubes,Accessories,Whole Sale,Consumer,Alex,8,2,0.1,14.4,2020,1,5,1
+2020-01-05,Handlebars,Components,Door to Door,Consumer,Alex,7,1,0.1,6.3,2020,1,5,1
+2020-01-05,Bib-Shorts,Clothing,Whole Sale,Business,Alex,12,3,0.14,30.96,2020,1,5,1
+2020-01-05,Mountain Bikes,Bikes,Whole Sale,Consumer,Alex,223,3,0.1,602.1,2020,1,5,1
+2020-01-05,Mountain Bikes,Bikes,Retail,Consumer,Alex,223,2,0.11,396.94,2020,1,5,1
+2020-01-05,Touring Bikes,Bikes,Retail,Consumer,Alex,130,2,0.15,221.0,2020,1,5,1
+2020-01-05,Socks,Clothing,Door to Door,Consumer,Alex,13,3,0.15,33.15,2020,1,5,1
+2020-01-05,Helmets,Accessories,Retail,Consumer,Alex,11,1,0.14,9.459999999999999,2020,1,5,1
+2020-01-05,Chains,Components,Retail,Business,Alex,6,2,0.12,10.56,2020,1,5,1
+2020-01-05,Caps,Clothing,Door to Door,Business,Alex,13,1,0.14,11.18,2020,1,5,1
+2020-01-05,Locks,Accessories,Whole Sale,Consumer,Alex,9,3,0.13,23.49,2020,1,5,1
+2020-01-05,Road Bikes,Bikes,Whole Sale,Business,Alex,74,1,0.15,62.9,2020,1,5,1
+2020-01-06,Road Bikes,Bikes,Key Accounts,Consumer,Alex,74,3,0.12,195.36,2020,1,6,1
+2020-01-06,Tights,Clothing,Retail,Business,Alex,12,2,0.11,21.36,2020,1,6,1
+2020-01-06,Pedals,Components,Retail,Consumer,Alex,6,1,0.15,5.1,2020,1,6,1
+2020-01-06,Caps,Clothing,Door to Door,Business,Alex,13,3,0.1,35.1,2020,1,6,1
+2020-01-06,Brakes,Components,Whole Sale,Business,Alex,5,2,0.11,8.9,2020,1,6,1
+2020-01-06,Mountain Bikes,Bikes,Retail,Business,Alex,223,1,0.14,191.78,2020,1,6,1
+2020-01-06,Wheels,Components,Retail,Consumer,Alex,4,2,0.13,6.96,2020,1,6,1
+2020-01-06,Shorts,Clothing,Key Accounts,Consumer,Alex,12,1,0.14,10.32,2020,1,6,1
+2020-01-06,Saddles,Components,Key Accounts,Consumer,Alex,3,3,0.14,7.74,2020,1,6,1
+2020-01-06,Socks,Clothing,Whole Sale,Business,Alex,13,3,0.11,34.71,2020,1,6,1
+2020-01-06,Locks,Accessories,Retail,Consumer,Alex,9,3,0.1,24.3,2020,1,6,1
+2020-01-06,Brakes,Components,Whole Sale,Consumer,Alex,5,1,0.11,4.45,2020,1,6,1
+2020-01-06,Handlebars,Components,Door to Door,Business,Alex,7,3,0.15,17.849999999999998,2020,1,6,1
+2020-01-06,Vests,Clothing,Whole Sale,Consumer,Alex,11,1,0.1,9.9,2020,1,6,1
+2020-01-06,Touring Bikes,Bikes,Retail,Consumer,Alex,130,2,0.12,228.8,2020,1,6,1
+2020-01-06,Helmets,Accessories,Whole Sale,Consumer,Alex,11,1,0.1,9.9,2020,1,6,1
+2020-01-06,Wheels,Components,Key Accounts,Business,Alex,4,3,0.13,10.44,2020,1,6,1
+2020-01-06,Wheels,Components,Door to Door,Consumer,Alex,4,1,0.12,3.52,2020,1,6,1
+2020-01-06,Pedals,Components,Key Accounts,Business,Alex,6,1,0.1,5.4,2020,1,6,1
+2020-01-06,Locks,Accessories,Whole Sale,Consumer,Alex,9,2,0.11,16.02,2020,1,6,1
+2020-01-06,Socks,Clothing,Door to Door,Business,Alex,13,2,0.13,22.62,2020,1,6,1
+2020-01-06,Road Bikes,Bikes,Door to Door,Business,Alex,74,3,0.12,195.36,2020,1,6,1
+2020-01-06,Touring Bikes,Bikes,Key Accounts,Business,Alex,130,1,0.1,117.0,2020,1,6,1
+2020-01-06,Pedals,Components,Whole Sale,Consumer,Alex,6,3,0.11,16.02,2020,1,6,1
+2020-01-06,Chains,Components,Retail,Business,Alex,6,3,0.12,15.84,2020,1,6,1
+2020-01-06,Tights,Clothing,Retail,Business,Alex,12,3,0.12,31.68,2020,1,6,1
+2020-01-06,Caps,Clothing,Key Accounts,Consumer,Alex,13,2,0.13,22.62,2020,1,6,1
+2020-01-06,Cargo Bike,Bikes,Door to Door,Consumer,Alex,246,1,0.13,214.02,2020,1,6,1
+2020-01-06,Helmets,Accessories,Retail,Business,Alex,11,1,0.11,9.790000000000001,2020,1,6,1
+2020-01-07,Caps,Clothing,Whole Sale,Business,Alex,13,2,0.14,22.36,2020,1,7,1
+2020-01-07,Mountain Bikes,Bikes,Key Accounts,Business,Alex,223,3,0.14,575.34,2020,1,7,1
+2020-01-07,Locks,Accessories,Door to Door,Business,Alex,9,2,0.1,16.2,2020,1,7,1
+2020-01-07,Locks,Accessories,Whole Sale,Consumer,Alex,9,1,0.13,7.83,2020,1,7,1
+2020-01-07,Vests,Clothing,Retail,Business,Alex,11,1,0.11,9.790000000000001,2020,1,7,1
+2020-01-07,Touring Bikes,Bikes,Retail,Business,Alex,130,3,0.11,347.1,2020,1,7,1
+2020-01-07,Lights,Accessories,Whole Sale,Business,Alex,7,3,0.15,17.849999999999998,2020,1,7,1
+2020-01-07,Vests,Clothing,Key Accounts,Consumer,Alex,11,1,0.1,9.9,2020,1,7,1
+2020-01-07,Tires and Tubes,Accessories,Door to Door,Business,Alex,8,2,0.11,14.24,2020,1,7,1
+2020-01-07,Cargo Bike,Bikes,Whole Sale,Business,Alex,246,2,0.14,423.12,2020,1,7,1
+2020-01-07,Road Bikes,Bikes,Whole Sale,Consumer,Alex,74,3,0.12,195.36,2020,1,7,1
+2020-01-07,Touring Bikes,Bikes,Door to Door,Business,Alex,130,3,0.13,339.3,2020,1,7,1
+2020-01-07,Chains,Components,Whole Sale,Business,Alex,6,3,0.14,15.48,2020,1,7,1
+2020-01-07,Vests,Clothing,Door to Door,Consumer,Alex,11,3,0.14,28.38,2020,1,7,1
+2020-01-07,Bottom Brackets,Components,Key Accounts,Business,Alex,3,1,0.15,2.55,2020,1,7,1
+2020-01-07,Bottom Brackets,Components,Whole Sale,Consumer,Alex,3,3,0.13,7.83,2020,1,7,1
+2020-01-07,Bottom Brackets,Components,Whole Sale,Business,Alex,3,1,0.11,2.67,2020,1,7,1
+2020-01-07,Road Bikes,Bikes,Key Accounts,Consumer,Alex,74,3,0.11,197.58,2020,1,7,1
+2020-01-07,Cargo Bike,Bikes,Whole Sale,Business,Alex,246,3,0.1,664.2,2020,1,7,1
+2020-01-07,Mountain Bikes,Bikes,Door to Door,Business,Alex,223,2,0.12,392.48,2020,1,7,1
+2020-01-07,Gloves,Clothing,Door to Door,Consumer,Alex,15,1,0.1,13.5,2020,1,7,1
+2020-01-07,Mountain Bikes,Bikes,Key Accounts,Business,Alex,223,2,0.15,379.09999999999997,2020,1,7,1
+2020-01-07,Pumps,Accessories,Retail,Business,Alex,10,2,0.13,17.4,2020,1,7,1
+2020-01-07,Caps,Clothing,Key Accounts,Consumer,Alex,13,3,0.1,35.1,2020,1,7,1
+2020-01-07,Brakes,Components,Retail,Consumer,Alex,5,1,0.12,4.4,2020,1,7,1
+2020-01-07,Pumps,Accessories,Whole Sale,Consumer,Alex,10,2,0.14,17.2,2020,1,7,1
+2020-01-07,Socks,Clothing,Key Accounts,Business,Alex,13,2,0.1,23.400000000000002,2020,1,7,1
+2020-01-07,Locks,Accessories,Door to Door,Consumer,Alex,9,3,0.15,22.95,2020,1,7,1
+2020-01-07,Handlebars,Components,Whole Sale,Consumer,Alex,7,1,0.11,6.23,2020,1,7,1
+2020-01-07,Bike Racks,Accessories,Door to Door,Business,Alex,10,3,0.13,26.1,2020,1,7,1
+2020-01-07,Pedals,Components,Retail,Business,Alex,6,3,0.15,15.299999999999999,2020,1,7,1
+2020-01-07,Brakes,Components,Whole Sale,Consumer,Alex,5,3,0.15,12.75,2020,1,7,1
+2020-01-07,Gloves,Clothing,Door to Door,Business,Alex,15,1,0.11,13.35,2020,1,7,1
+2020-01-07,Shorts,Clothing,Door to Door,Business,Alex,12,3,0.15,30.599999999999998,2020,1,7,1
+2020-01-01,Touring Bikes,Bikes,Door to Door,Consumer,Cairo,130,3,0.1,351.0,2020,1,1,1
+2020-01-01,Cargo Bike,Bikes,Key Accounts,Business,Cairo,246,1,0.13,214.02,2020,1,1,1
+2020-01-01,Pumps,Accessories,Key Accounts,Business,Cairo,10,1,0.15,8.5,2020,1,1,1
+2020-01-01,Bottom Brackets,Components,Retail,Consumer,Cairo,3,2,0.11,5.34,2020,1,1,1
+2020-01-01,Tights,Clothing,Key Accounts,Consumer,Cairo,12,2,0.1,21.6,2020,1,1,1
+2020-01-01,Bike Racks,Accessories,Door to Door,Consumer,Cairo,10,1,0.14,8.6,2020,1,1,1
+2020-01-01,Socks,Clothing,Whole Sale,Consumer,Cairo,13,2,0.12,22.88,2020,1,1,1
+2020-01-01,Pumps,Accessories,Whole Sale,Consumer,Cairo,10,1,0.15,8.5,2020,1,1,1
+2020-01-01,Pedals,Components,Whole Sale,Consumer,Cairo,6,2,0.11,10.68,2020,1,1,1
+2020-01-01,Chains,Components,Key Accounts,Business,Cairo,6,3,0.12,15.84,2020,1,1,1
+2020-01-01,Pedals,Components,Retail,Business,Cairo,6,1,0.15,5.1,2020,1,1,1
+2020-01-01,Tights,Clothing,Whole Sale,Business,Cairo,12,2,0.11,21.36,2020,1,1,1
+2020-01-01,Bib-Shorts,Clothing,Key Accounts,Business,Cairo,12,3,0.14,30.96,2020,1,1,1
+2020-01-01,Road Bikes,Bikes,Retail,Consumer,Cairo,74,3,0.14,190.92,2020,1,1,1
+2020-01-01,Tights,Clothing,Whole Sale,Business,Cairo,12,1,0.11,10.68,2020,1,1,1
+2020-01-01,Pumps,Accessories,Whole Sale,Consumer,Cairo,10,1,0.12,8.8,2020,1,1,1
+2020-01-01,Wheels,Components,Retail,Consumer,Cairo,4,3,0.11,10.68,2020,1,1,1
+2020-01-01,Gloves,Clothing,Retail,Business,Cairo,15,1,0.14,12.9,2020,1,1,1
+2020-01-01,Lights,Accessories,Whole Sale,Business,Cairo,7,2,0.11,12.46,2020,1,1,1
+2020-01-01,Shorts,Clothing,Retail,Consumer,Cairo,12,1,0.14,10.32,2020,1,1,1
+2020-01-01,Pedals,Components,Retail,Consumer,Cairo,6,2,0.13,10.44,2020,1,1,1
+2020-01-01,Pumps,Accessories,Whole Sale,Business,Cairo,10,1,0.12,8.8,2020,1,1,1
+2020-01-01,Tights,Clothing,Retail,Consumer,Cairo,12,3,0.13,31.32,2020,1,1,1
+2020-01-01,Cargo Bike,Bikes,Key Accounts,Consumer,Cairo,246,1,0.1,221.4,2020,1,1,1
+2020-01-01,Pumps,Accessories,Retail,Business,Cairo,10,1,0.12,8.8,2020,1,1,1
+2020-01-01,Vests,Clothing,Key Accounts,Business,Cairo,11,2,0.14,18.919999999999998,2020,1,1,1
+2020-01-01,Tires and Tubes,Accessories,Door to Door,Business,Cairo,8,1,0.1,7.2,2020,1,1,1
+2020-01-01,Tights,Clothing,Whole Sale,Consumer,Cairo,12,2,0.13,20.88,2020,1,1,1
+2020-01-02,Bike Racks,Accessories,Retail,Consumer,Cairo,10,1,0.11,8.9,2020,1,2,1
+2020-01-02,Socks,Clothing,Key Accounts,Consumer,Cairo,13,1,0.13,11.31,2020,1,2,1
+2020-01-02,Helmets,Accessories,Whole Sale,Consumer,Cairo,11,3,0.12,29.04,2020,1,2,1
+2020-01-02,Tires and Tubes,Accessories,Retail,Consumer,Cairo,8,3,0.11,21.36,2020,1,2,1
+2020-01-02,Touring Bikes,Bikes,Door to Door,Business,Cairo,130,1,0.14,111.8,2020,1,2,1
+2020-01-02,Handlebars,Components,Whole Sale,Consumer,Cairo,7,2,0.14,12.04,2020,1,2,1
+2020-01-02,Caps,Clothing,Whole Sale,Consumer,Cairo,13,1,0.12,11.44,2020,1,2,1
+2020-01-02,Tires and Tubes,Accessories,Door to Door,Business,Cairo,8,2,0.12,14.08,2020,1,2,1
+2020-01-02,Road Bikes,Bikes,Door to Door,Consumer,Cairo,74,1,0.13,64.38,2020,1,2,1
+2020-01-02,Shorts,Clothing,Door to Door,Business,Cairo,12,2,0.11,21.36,2020,1,2,1
+2020-01-02,Caps,Clothing,Whole Sale,Business,Cairo,13,3,0.11,34.71,2020,1,2,1
+2020-01-02,Pumps,Accessories,Door to Door,Consumer,Cairo,10,3,0.14,25.8,2020,1,2,1
+2020-01-02,Cargo Bike,Bikes,Whole Sale,Consumer,Cairo,246,2,0.15,418.2,2020,1,2,1
+2020-01-02,Vests,Clothing,Whole Sale,Consumer,Cairo,11,2,0.14,18.919999999999998,2020,1,2,1
+2020-01-02,Mountain Bikes,Bikes,Door to Door,Business,Cairo,223,3,0.13,582.03,2020,1,2,1
+2020-01-02,Locks,Accessories,Key Accounts,Business,Cairo,9,2,0.12,15.84,2020,1,2,1
+2020-01-02,Bike Racks,Accessories,Door to Door,Business,Cairo,10,3,0.13,26.1,2020,1,2,1
+2020-01-02,Bib-Shorts,Clothing,Door to Door,Consumer,Cairo,12,2,0.15,20.4,2020,1,2,1
+2020-01-02,Shorts,Clothing,Key Accounts,Business,Cairo,12,3,0.14,30.96,2020,1,2,1
+2020-01-02,Helmets,Accessories,Retail,Consumer,Cairo,11,2,0.13,19.14,2020,1,2,1
+2020-01-02,Locks,Accessories,Retail,Business,Cairo,9,3,0.11,24.03,2020,1,2,1
+2020-01-02,Caps,Clothing,Retail,Consumer,Cairo,13,2,0.11,23.14,2020,1,2,1
+2020-01-02,Tires and Tubes,Accessories,Whole Sale,Business,Cairo,8,2,0.12,14.08,2020,1,2,1
+2020-01-02,Cargo Bike,Bikes,Retail,Business,Cairo,246,2,0.13,428.04,2020,1,2,1
+2020-01-02,Handlebars,Components,Door to Door,Business,Cairo,7,3,0.1,18.900000000000002,2020,1,2,1
+2020-01-02,Mountain Bikes,Bikes,Key Accounts,Consumer,Cairo,223,1,0.12,196.24,2020,1,2,1
+2020-01-02,Pedals,Components,Retail,Business,Cairo,6,2,0.13,10.44,2020,1,2,1
+2020-01-02,Bib-Shorts,Clothing,Whole Sale,Consumer,Cairo,12,1,0.13,10.44,2020,1,2,1
+2020-01-02,Bike Racks,Accessories,Retail,Business,Cairo,10,2,0.1,18.0,2020,1,2,1
+2020-01-03,Brakes,Components,Whole Sale,Business,Cairo,5,2,0.15,8.5,2020,1,3,1
+2020-01-03,Lights,Accessories,Door to Door,Consumer,Cairo,7,2,0.13,12.18,2020,1,3,1
+2020-01-03,Bottom Brackets,Components,Key Accounts,Business,Cairo,3,2,0.15,5.1,2020,1,3,1
+2020-01-03,Handlebars,Components,Door to Door,Consumer,Cairo,7,2,0.15,11.9,2020,1,3,1
+2020-01-03,Tires and Tubes,Accessories,Retail,Business,Cairo,8,1,0.13,6.96,2020,1,3,1
+2020-01-03,Gloves,Clothing,Whole Sale,Business,Cairo,15,1,0.12,13.2,2020,1,3,1
+2020-01-03,Handlebars,Components,Whole Sale,Business,Cairo,7,1,0.14,6.02,2020,1,3,1
+2020-01-03,Pumps,Accessories,Retail,Consumer,Cairo,10,2,0.1,18.0,2020,1,3,1
+2020-01-03,Tires and Tubes,Accessories,Retail,Consumer,Cairo,8,3,0.14,20.64,2020,1,3,1
+2020-01-03,Vests,Clothing,Door to Door,Consumer,Cairo,11,3,0.12,29.04,2020,1,3,1
+2020-01-03,Bottom Brackets,Components,Whole Sale,Consumer,Cairo,3,3,0.12,7.92,2020,1,3,1
+2020-01-03,Wheels,Components,Door to Door,Consumer,Cairo,4,3,0.15,10.2,2020,1,3,1
+2020-01-03,Mountain Bikes,Bikes,Whole Sale,Business,Cairo,223,2,0.13,388.02,2020,1,3,1
+2020-01-03,Pedals,Components,Door to Door,Consumer,Cairo,6,3,0.12,15.84,2020,1,3,1
+2020-01-03,Cargo Bike,Bikes,Retail,Business,Cairo,246,1,0.1,221.4,2020,1,3,1
+2020-01-03,Bib-Shorts,Clothing,Retail,Consumer,Cairo,12,2,0.14,20.64,2020,1,3,1
+2020-01-03,Pumps,Accessories,Retail,Consumer,Cairo,10,1,0.14,8.6,2020,1,3,1
+2020-01-03,Chains,Components,Whole Sale,Business,Cairo,6,1,0.14,5.16,2020,1,3,1
+2020-01-03,Gloves,Clothing,Whole Sale,Business,Cairo,15,1,0.1,13.5,2020,1,3,1
+2020-01-03,Handlebars,Components,Retail,Business,Cairo,7,2,0.14,12.04,2020,1,3,1
+2020-01-03,Wheels,Components,Retail,Business,Cairo,4,3,0.15,10.2,2020,1,3,1
+2020-01-03,Locks,Accessories,Key Accounts,Business,Cairo,9,1,0.15,7.6499999999999995,2020,1,3,1
+2020-01-03,Road Bikes,Bikes,Door to Door,Consumer,Cairo,74,1,0.11,65.86,2020,1,3,1
+2020-01-03,Helmets,Accessories,Door to Door,Business,Cairo,11,3,0.13,28.71,2020,1,3,1
+2020-01-03,Jerseys,Clothing,Retail,Business,Cairo,15,1,0.13,13.05,2020,1,3,1
+2020-01-03,Tights,Clothing,Key Accounts,Business,Cairo,12,1,0.15,10.2,2020,1,3,1
+2020-01-03,Shorts,Clothing,Whole Sale,Business,Cairo,12,3,0.1,32.4,2020,1,3,1
+2020-01-03,Brakes,Components,Door to Door,Consumer,Cairo,5,1,0.15,4.25,2020,1,3,1
+2020-01-03,Cargo Bike,Bikes,Door to Door,Consumer,Cairo,246,3,0.11,656.82,2020,1,3,1
+2020-01-03,Helmets,Accessories,Key Accounts,Business,Cairo,11,3,0.1,29.7,2020,1,3,1
+2020-01-03,Tires and Tubes,Accessories,Retail,Consumer,Cairo,8,2,0.15,13.6,2020,1,3,1
+2020-01-03,Bottom Brackets,Components,Retail,Business,Cairo,3,1,0.13,2.61,2020,1,3,1
+2020-01-04,Bike Racks,Accessories,Key Accounts,Business,Cairo,10,1,0.12,8.8,2020,1,4,1
+2020-01-04,Tires and Tubes,Accessories,Door to Door,Consumer,Cairo,8,3,0.14,20.64,2020,1,4,1
+2020-01-04,Road Bikes,Bikes,Whole Sale,Business,Cairo,74,1,0.14,63.64,2020,1,4,1
+2020-01-04,Touring Bikes,Bikes,Key Accounts,Business,Cairo,130,2,0.14,223.6,2020,1,4,1
+2020-01-04,Road Bikes,Bikes,Door to Door,Business,Cairo,74,1,0.14,63.64,2020,1,4,1
+2020-01-04,Helmets,Accessories,Door to Door,Consumer,Cairo,11,2,0.12,19.36,2020,1,4,1
+2020-01-04,Lights,Accessories,Retail,Business,Cairo,7,3,0.11,18.69,2020,1,4,1
+2020-01-04,Gloves,Clothing,Retail,Business,Cairo,15,1,0.14,12.9,2020,1,4,1
+2020-01-04,Saddles,Components,Key Accounts,Consumer,Cairo,3,3,0.14,7.74,2020,1,4,1
+2020-01-04,Chains,Components,Door to Door,Business,Cairo,6,2,0.15,10.2,2020,1,4,1
+2020-01-04,Bib-Shorts,Clothing,Retail,Consumer,Cairo,12,3,0.15,30.599999999999998,2020,1,4,1
+2020-01-04,Tires and Tubes,Accessories,Door to Door,Business,Cairo,8,3,0.15,20.4,2020,1,4,1
+2020-01-04,Caps,Clothing,Door to Door,Business,Cairo,13,1,0.14,11.18,2020,1,4,1
+2020-01-04,Tires and Tubes,Accessories,Whole Sale,Consumer,Cairo,8,1,0.13,6.96,2020,1,4,1
+2020-01-04,Lights,Accessories,Retail,Business,Cairo,7,1,0.13,6.09,2020,1,4,1
+2020-01-04,Bike Racks,Accessories,Door to Door,Business,Cairo,10,3,0.15,25.5,2020,1,4,1
+2020-01-04,Cargo Bike,Bikes,Key Accounts,Business,Cairo,246,2,0.15,418.2,2020,1,4,1
+2020-01-04,Mountain Bikes,Bikes,Retail,Business,Cairo,223,1,0.11,198.47,2020,1,4,1
+2020-01-04,Cargo Bike,Bikes,Whole Sale,Business,Cairo,246,2,0.11,437.88,2020,1,4,1
+2020-01-04,Shorts,Clothing,Retail,Business,Cairo,12,2,0.1,21.6,2020,1,4,1
+2020-01-05,Lights,Accessories,Key Accounts,Business,Cairo,7,2,0.14,12.04,2020,1,5,1
+2020-01-05,Bottom Brackets,Components,Key Accounts,Business,Cairo,3,1,0.15,2.55,2020,1,5,1
+2020-01-05,Bib-Shorts,Clothing,Door to Door,Consumer,Cairo,12,2,0.11,21.36,2020,1,5,1
+2020-01-05,Socks,Clothing,Whole Sale,Business,Cairo,13,2,0.1,23.400000000000002,2020,1,5,1
+2020-01-05,Bike Racks,Accessories,Retail,Business,Cairo,10,2,0.1,18.0,2020,1,5,1
+2020-01-05,Saddles,Components,Door to Door,Consumer,Cairo,3,2,0.12,5.28,2020,1,5,1
+2020-01-05,Pedals,Components,Retail,Business,Cairo,6,3,0.14,15.48,2020,1,5,1
+2020-01-05,Lights,Accessories,Key Accounts,Consumer,Cairo,7,2,0.15,11.9,2020,1,5,1
+2020-01-05,Tights,Clothing,Door to Door,Business,Cairo,12,1,0.14,10.32,2020,1,5,1
+2020-01-05,Touring Bikes,Bikes,Door to Door,Consumer,Cairo,130,3,0.14,335.4,2020,1,5,1
+2020-01-05,Shorts,Clothing,Door to Door,Consumer,Cairo,12,3,0.12,31.68,2020,1,5,1
+2020-01-05,Lights,Accessories,Whole Sale,Business,Cairo,7,2,0.11,12.46,2020,1,5,1
+2020-01-05,Handlebars,Components,Key Accounts,Consumer,Cairo,7,2,0.12,12.32,2020,1,5,1
+2020-01-05,Helmets,Accessories,Whole Sale,Consumer,Cairo,11,1,0.14,9.459999999999999,2020,1,5,1
+2020-01-05,Shorts,Clothing,Retail,Consumer,Cairo,12,1,0.11,10.68,2020,1,5,1
+2020-01-05,Touring Bikes,Bikes,Key Accounts,Business,Cairo,130,2,0.1,234.0,2020,1,5,1
+2020-01-05,Jerseys,Clothing,Door to Door,Consumer,Cairo,15,2,0.1,27.0,2020,1,5,1
+2020-01-05,Locks,Accessories,Key Accounts,Business,Cairo,9,3,0.13,23.49,2020,1,5,1
+2020-01-05,Lights,Accessories,Whole Sale,Business,Cairo,7,1,0.13,6.09,2020,1,5,1
+2020-01-05,Tights,Clothing,Key Accounts,Business,Cairo,12,2,0.15,20.4,2020,1,5,1
+2020-01-05,Saddles,Components,Door to Door,Business,Cairo,3,2,0.14,5.16,2020,1,5,1
+2020-01-05,Socks,Clothing,Whole Sale,Consumer,Cairo,13,2,0.14,22.36,2020,1,5,1
+2020-01-05,Bib-Shorts,Clothing,Whole Sale,Consumer,Cairo,12,3,0.12,31.68,2020,1,5,1
+2020-01-05,Road Bikes,Bikes,Door to Door,Consumer,Cairo,74,3,0.1,199.8,2020,1,5,1
+2020-01-06,Brakes,Components,Retail,Consumer,Cairo,5,3,0.15,12.75,2020,1,6,1
+2020-01-06,Tires and Tubes,Accessories,Door to Door,Business,Cairo,8,1,0.15,6.8,2020,1,6,1
+2020-01-06,Shorts,Clothing,Retail,Business,Cairo,12,3,0.11,32.04,2020,1,6,1
+2020-01-06,Bottom Brackets,Components,Retail,Business,Cairo,3,1,0.11,2.67,2020,1,6,1
+2020-01-06,Wheels,Components,Key Accounts,Business,Cairo,4,2,0.1,7.2,2020,1,6,1
+2020-01-06,Cargo Bike,Bikes,Key Accounts,Consumer,Cairo,246,2,0.12,432.96,2020,1,6,1
+2020-01-06,Vests,Clothing,Key Accounts,Consumer,Cairo,11,3,0.12,29.04,2020,1,6,1
+2020-01-06,Tires and Tubes,Accessories,Door to Door,Consumer,Cairo,8,3,0.1,21.6,2020,1,6,1
+2020-01-06,Pumps,Accessories,Retail,Business,Cairo,10,3,0.15,25.5,2020,1,6,1
+2020-01-06,Brakes,Components,Key Accounts,Business,Cairo,5,2,0.11,8.9,2020,1,6,1
+2020-01-06,Tires and Tubes,Accessories,Door to Door,Business,Cairo,8,3,0.11,21.36,2020,1,6,1
+2020-01-06,Bib-Shorts,Clothing,Whole Sale,Business,Cairo,12,1,0.15,10.2,2020,1,6,1
+2020-01-06,Lights,Accessories,Whole Sale,Consumer,Cairo,7,3,0.1,18.900000000000002,2020,1,6,1
+2020-01-06,Gloves,Clothing,Door to Door,Consumer,Cairo,15,1,0.14,12.9,2020,1,6,1
+2020-01-06,Gloves,Clothing,Retail,Business,Cairo,15,1,0.13,13.05,2020,1,6,1
+2020-01-06,Jerseys,Clothing,Door to Door,Business,Cairo,15,1,0.11,13.35,2020,1,6,1
+2020-01-06,Brakes,Components,Retail,Business,Cairo,5,2,0.11,8.9,2020,1,6,1
+2020-01-06,Vests,Clothing,Door to Door,Consumer,Cairo,11,2,0.13,19.14,2020,1,6,1
+2020-01-06,Tires and Tubes,Accessories,Whole Sale,Business,Cairo,8,1,0.11,7.12,2020,1,6,1
+2020-01-06,Pumps,Accessories,Retail,Business,Cairo,10,1,0.15,8.5,2020,1,6,1
+2020-01-06,Jerseys,Clothing,Whole Sale,Business,Cairo,15,3,0.15,38.25,2020,1,6,1
+2020-01-06,Handlebars,Components,Door to Door,Business,Cairo,7,3,0.13,18.27,2020,1,6,1
+2020-01-06,Gloves,Clothing,Door to Door,Business,Cairo,15,3,0.12,39.6,2020,1,6,1
+2020-01-06,Brakes,Components,Door to Door,Business,Cairo,5,1,0.11,4.45,2020,1,6,1
+2020-01-06,Bike Racks,Accessories,Whole Sale,Consumer,Cairo,10,1,0.1,9.0,2020,1,6,1
+2020-01-07,Tights,Clothing,Retail,Consumer,Cairo,12,2,0.1,21.6,2020,1,7,1
+2020-01-07,Bike Racks,Accessories,Door to Door,Consumer,Cairo,10,2,0.11,17.8,2020,1,7,1
+2020-01-07,Jerseys,Clothing,Door to Door,Business,Cairo,15,3,0.15,38.25,2020,1,7,1
+2020-01-07,Jerseys,Clothing,Key Accounts,Business,Cairo,15,3,0.11,40.05,2020,1,7,1
+2020-01-07,Helmets,Accessories,Retail,Business,Cairo,11,1,0.11,9.790000000000001,2020,1,7,1
+2020-01-07,Cargo Bike,Bikes,Retail,Business,Cairo,246,2,0.1,442.8,2020,1,7,1
+2020-01-07,Saddles,Components,Door to Door,Consumer,Cairo,3,3,0.15,7.6499999999999995,2020,1,7,1
+2020-01-07,Handlebars,Components,Door to Door,Business,Cairo,7,3,0.11,18.69,2020,1,7,1
+2020-01-07,Tires and Tubes,Accessories,Key Accounts,Consumer,Cairo,8,3,0.14,20.64,2020,1,7,1
+2020-01-07,Road Bikes,Bikes,Key Accounts,Consumer,Cairo,74,1,0.12,65.12,2020,1,7,1
+2020-01-07,Caps,Clothing,Retail,Consumer,Cairo,13,2,0.15,22.099999999999998,2020,1,7,1
+2020-01-07,Lights,Accessories,Retail,Business,Cairo,7,3,0.14,18.06,2020,1,7,1
+2020-01-07,Tires and Tubes,Accessories,Door to Door,Consumer,Cairo,8,1,0.1,7.2,2020,1,7,1
+2020-01-07,Locks,Accessories,Key Accounts,Business,Cairo,9,3,0.15,22.95,2020,1,7,1
+2020-01-07,Chains,Components,Door to Door,Business,Cairo,6,3,0.12,15.84,2020,1,7,1
+2020-01-07,Brakes,Components,Retail,Consumer,Cairo,5,1,0.1,4.5,2020,1,7,1
+2020-01-07,Pedals,Components,Door to Door,Consumer,Cairo,6,3,0.1,16.2,2020,1,7,1
+2020-01-07,Vests,Clothing,Whole Sale,Consumer,Cairo,11,2,0.1,19.8,2020,1,7,1
+2020-01-07,Jerseys,Clothing,Whole Sale,Consumer,Cairo,15,2,0.13,26.1,2020,1,7,1
+2020-01-07,Pumps,Accessories,Door to Door,Business,Cairo,10,3,0.1,27.0,2020,1,7,1
+2020-01-07,Locks,Accessories,Door to Door,Business,Cairo,9,2,0.15,15.299999999999999,2020,1,7,1
+2020-01-07,Bib-Shorts,Clothing,Whole Sale,Business,Cairo,12,1,0.15,10.2,2020,1,7,1
+2020-01-07,Locks,Accessories,Whole Sale,Consumer,Cairo,9,3,0.15,22.95,2020,1,7,1
+2020-01-07,Bottom Brackets,Components,Door to Door,Business,Cairo,3,2,0.14,5.16,2020,1,7,1
+2020-01-07,Helmets,Accessories,Key Accounts,Business,Cairo,11,3,0.1,29.7,2020,1,7,1
+2020-01-07,Bottom Brackets,Components,Key Accounts,Business,Cairo,3,1,0.13,2.61,2020,1,7,1
+2020-01-07,Gloves,Clothing,Key Accounts,Business,Cairo,15,2,0.14,25.8,2020,1,7,1
+2020-01-07,Locks,Accessories,Key Accounts,Consumer,Cairo,9,2,0.11,16.02,2020,1,7,1
+2020-01-01,Touring Bikes,Bikes,Whole Sale,Consumer,Giza,130,3,0.13,339.3,2020,1,1,1
+2020-01-01,Socks,Clothing,Retail,Business,Giza,13,3,0.1,35.1,2020,1,1,1
+2020-01-01,Gloves,Clothing,Retail,Business,Giza,15,2,0.15,25.5,2020,1,1,1
+2020-01-01,Mountain Bikes,Bikes,Door to Door,Consumer,Giza,223,2,0.15,379.09999999999997,2020,1,1,1
+2020-01-01,Brakes,Components,Key Accounts,Consumer,Giza,5,1,0.15,4.25,2020,1,1,1
+2020-01-01,Road Bikes,Bikes,Whole Sale,Consumer,Giza,74,1,0.14,63.64,2020,1,1,1
+2020-01-01,Handlebars,Components,Key Accounts,Business,Giza,7,2,0.1,12.6,2020,1,1,1
+2020-01-01,Bike Racks,Accessories,Whole Sale,Consumer,Giza,10,1,0.12,8.8,2020,1,1,1
+2020-01-01,Helmets,Accessories,Whole Sale,Consumer,Giza,11,1,0.14,9.459999999999999,2020,1,1,1
+2020-01-01,Bike Racks,Accessories,Whole Sale,Consumer,Giza,10,1,0.11,8.9,2020,1,1,1
+2020-01-01,Pedals,Components,Door to Door,Consumer,Giza,6,1,0.14,5.16,2020,1,1,1
+2020-01-01,Saddles,Components,Retail,Business,Giza,3,3,0.12,7.92,2020,1,1,1
+2020-01-01,Cargo Bike,Bikes,Door to Door,Business,Giza,246,2,0.12,432.96,2020,1,1,1
+2020-01-01,Chains,Components,Whole Sale,Consumer,Giza,6,1,0.13,5.22,2020,1,1,1
+2020-01-01,Locks,Accessories,Key Accounts,Business,Giza,9,1,0.11,8.01,2020,1,1,1
+2020-01-01,Bib-Shorts,Clothing,Door to Door,Consumer,Giza,12,2,0.11,21.36,2020,1,1,1
+2020-01-01,Caps,Clothing,Key Accounts,Consumer,Giza,13,1,0.11,11.57,2020,1,1,1
+2020-01-01,Touring Bikes,Bikes,Key Accounts,Business,Giza,130,1,0.11,115.7,2020,1,1,1
+2020-01-01,Bottom Brackets,Components,Whole Sale,Business,Giza,3,2,0.11,5.34,2020,1,1,1
+2020-01-01,Shorts,Clothing,Whole Sale,Consumer,Giza,12,3,0.1,32.4,2020,1,1,1
+2020-01-01,Mountain Bikes,Bikes,Door to Door,Consumer,Giza,223,3,0.15,568.65,2020,1,1,1
+2020-01-01,Locks,Accessories,Door to Door,Consumer,Giza,9,3,0.12,23.76,2020,1,1,1
+2020-01-01,Tires and Tubes,Accessories,Retail,Consumer,Giza,8,1,0.11,7.12,2020,1,1,1
+2020-01-01,Cargo Bike,Bikes,Whole Sale,Business,Giza,246,1,0.1,221.4,2020,1,1,1
+2020-01-01,Shorts,Clothing,Key Accounts,Consumer,Giza,12,2,0.13,20.88,2020,1,1,1
+2020-01-01,Vests,Clothing,Door to Door,Business,Giza,11,1,0.11,9.790000000000001,2020,1,1,1
+2020-01-02,Road Bikes,Bikes,Key Accounts,Business,Giza,74,2,0.1,133.20000000000002,2020,1,2,1
+2020-01-02,Bib-Shorts,Clothing,Door to Door,Business,Giza,12,3,0.11,32.04,2020,1,2,1
+2020-01-02,Wheels,Components,Whole Sale,Consumer,Giza,4,3,0.12,10.56,2020,1,2,1
+2020-01-02,Wheels,Components,Door to Door,Business,Giza,4,3,0.12,10.56,2020,1,2,1
+2020-01-02,Bottom Brackets,Components,Door to Door,Business,Giza,3,2,0.15,5.1,2020,1,2,1
+2020-01-02,Caps,Clothing,Retail,Business,Giza,13,2,0.15,22.099999999999998,2020,1,2,1
+2020-01-02,Brakes,Components,Retail,Consumer,Giza,5,1,0.13,4.35,2020,1,2,1
+2020-01-02,Touring Bikes,Bikes,Key Accounts,Business,Giza,130,1,0.13,113.1,2020,1,2,1
+2020-01-02,Wheels,Components,Door to Door,Business,Giza,4,1,0.11,3.56,2020,1,2,1
+2020-01-02,Brakes,Components,Key Accounts,Consumer,Giza,5,1,0.13,4.35,2020,1,2,1
+2020-01-02,Cargo Bike,Bikes,Door to Door,Consumer,Giza,246,3,0.11,656.82,2020,1,2,1
+2020-01-02,Locks,Accessories,Door to Door,Consumer,Giza,9,1,0.13,7.83,2020,1,2,1
+2020-01-02,Handlebars,Components,Key Accounts,Business,Giza,7,2,0.1,12.6,2020,1,2,1
+2020-01-02,Jerseys,Clothing,Retail,Consumer,Giza,15,3,0.13,39.15,2020,1,2,1
+2020-01-02,Wheels,Components,Whole Sale,Business,Giza,4,2,0.15,6.8,2020,1,2,1
+2020-01-02,Bike Racks,Accessories,Retail,Business,Giza,10,1,0.1,9.0,2020,1,2,1
+2020-01-02,Saddles,Components,Whole Sale,Consumer,Giza,3,1,0.12,2.64,2020,1,2,1
+2020-01-02,Chains,Components,Retail,Consumer,Giza,6,1,0.11,5.34,2020,1,2,1
+2020-01-02,Tights,Clothing,Retail,Consumer,Giza,12,2,0.11,21.36,2020,1,2,1
+2020-01-02,Handlebars,Components,Whole Sale,Business,Giza,7,2,0.1,12.6,2020,1,2,1
+2020-01-02,Lights,Accessories,Whole Sale,Consumer,Giza,7,1,0.1,6.3,2020,1,2,1
+2020-01-02,Touring Bikes,Bikes,Whole Sale,Business,Giza,130,2,0.15,221.0,2020,1,2,1
+2020-01-02,Road Bikes,Bikes,Key Accounts,Consumer,Giza,74,1,0.13,64.38,2020,1,2,1
+2020-01-02,Gloves,Clothing,Key Accounts,Business,Giza,15,3,0.13,39.15,2020,1,2,1
+2020-01-02,Cargo Bike,Bikes,Whole Sale,Business,Giza,246,2,0.11,437.88,2020,1,2,1
+2020-01-02,Road Bikes,Bikes,Whole Sale,Business,Giza,74,3,0.12,195.36,2020,1,2,1
+2020-01-02,Caps,Clothing,Whole Sale,Consumer,Giza,13,1,0.13,11.31,2020,1,2,1
+2020-01-02,Cargo Bike,Bikes,Key Accounts,Business,Giza,246,1,0.13,214.02,2020,1,2,1
+2020-01-02,Shorts,Clothing,Whole Sale,Business,Giza,12,2,0.13,20.88,2020,1,2,1
+2020-01-02,Bike Racks,Accessories,Key Accounts,Business,Giza,10,1,0.14,8.6,2020,1,2,1
+2020-01-02,Tires and Tubes,Accessories,Door to Door,Business,Giza,8,2,0.13,13.92,2020,1,2,1
+2020-01-02,Bib-Shorts,Clothing,Retail,Consumer,Giza,12,1,0.15,10.2,2020,1,2,1
+2020-01-02,Mountain Bikes,Bikes,Door to Door,Business,Giza,223,3,0.14,575.34,2020,1,2,1
+2020-01-02,Mountain Bikes,Bikes,Key Accounts,Business,Giza,223,3,0.12,588.72,2020,1,2,1
+2020-01-03,Touring Bikes,Bikes,Door to Door,Consumer,Giza,130,1,0.13,113.1,2020,1,3,1
+2020-01-03,Shorts,Clothing,Whole Sale,Business,Giza,12,3,0.15,30.599999999999998,2020,1,3,1
+2020-01-03,Cargo Bike,Bikes,Key Accounts,Business,Giza,246,1,0.15,209.1,2020,1,3,1
+2020-01-03,Helmets,Accessories,Whole Sale,Consumer,Giza,11,3,0.11,29.37,2020,1,3,1
+2020-01-03,Bottom Brackets,Components,Retail,Consumer,Giza,3,1,0.1,2.7,2020,1,3,1
+2020-01-03,Road Bikes,Bikes,Door to Door,Consumer,Giza,74,2,0.1,133.20000000000002,2020,1,3,1
+2020-01-03,Mountain Bikes,Bikes,Whole Sale,Consumer,Giza,223,1,0.13,194.01,2020,1,3,1
+2020-01-03,Helmets,Accessories,Door to Door,Consumer,Giza,11,3,0.12,29.04,2020,1,3,1
+2020-01-03,Lights,Accessories,Key Accounts,Consumer,Giza,7,2,0.15,11.9,2020,1,3,1
+2020-01-03,Gloves,Clothing,Key Accounts,Business,Giza,15,3,0.12,39.6,2020,1,3,1
+2020-01-03,Pumps,Accessories,Door to Door,Consumer,Giza,10,2,0.1,18.0,2020,1,3,1
+2020-01-03,Shorts,Clothing,Retail,Consumer,Giza,12,2,0.1,21.6,2020,1,3,1
+2020-01-03,Chains,Components,Whole Sale,Consumer,Giza,6,2,0.1,10.8,2020,1,3,1
+2020-01-03,Brakes,Components,Key Accounts,Consumer,Giza,5,2,0.1,9.0,2020,1,3,1
+2020-01-03,Tights,Clothing,Door to Door,Business,Giza,12,2,0.13,20.88,2020,1,3,1
+2020-01-03,Mountain Bikes,Bikes,Whole Sale,Consumer,Giza,223,1,0.14,191.78,2020,1,3,1
+2020-01-03,Pumps,Accessories,Door to Door,Business,Giza,10,3,0.15,25.5,2020,1,3,1
+2020-01-03,Socks,Clothing,Key Accounts,Consumer,Giza,13,1,0.1,11.700000000000001,2020,1,3,1
+2020-01-03,Helmets,Accessories,Key Accounts,Consumer,Giza,11,3,0.15,28.05,2020,1,3,1
+2020-01-03,Tights,Clothing,Retail,Business,Giza,12,3,0.15,30.599999999999998,2020,1,3,1
+2020-01-03,Bib-Shorts,Clothing,Door to Door,Business,Giza,12,3,0.11,32.04,2020,1,3,1
+2020-01-03,Vests,Clothing,Retail,Business,Giza,11,2,0.14,18.919999999999998,2020,1,3,1
+2020-01-03,Bottom Brackets,Components,Whole Sale,Business,Giza,3,3,0.11,8.01,2020,1,3,1
+2020-01-03,Road Bikes,Bikes,Key Accounts,Business,Giza,74,1,0.1,66.60000000000001,2020,1,3,1
+2020-01-03,Road Bikes,Bikes,Door to Door,Business,Giza,74,1,0.1,66.60000000000001,2020,1,3,1
+2020-01-03,Caps,Clothing,Retail,Consumer,Giza,13,2,0.13,22.62,2020,1,3,1
+2020-01-04,Bottom Brackets,Components,Retail,Consumer,Giza,3,1,0.1,2.7,2020,1,4,1
+2020-01-04,Jerseys,Clothing,Whole Sale,Business,Giza,15,1,0.15,12.75,2020,1,4,1
+2020-01-04,Touring Bikes,Bikes,Key Accounts,Consumer,Giza,130,2,0.12,228.8,2020,1,4,1
+2020-01-04,Socks,Clothing,Door to Door,Consumer,Giza,13,2,0.11,23.14,2020,1,4,1
+2020-01-04,Jerseys,Clothing,Retail,Consumer,Giza,15,2,0.1,27.0,2020,1,4,1
+2020-01-04,Tires and Tubes,Accessories,Retail,Consumer,Giza,8,2,0.15,13.6,2020,1,4,1
+2020-01-04,Handlebars,Components,Whole Sale,Business,Giza,7,3,0.14,18.06,2020,1,4,1
+2020-01-04,Jerseys,Clothing,Door to Door,Business,Giza,15,2,0.11,26.7,2020,1,4,1
+2020-01-04,Lights,Accessories,Key Accounts,Consumer,Giza,7,3,0.13,18.27,2020,1,4,1
+2020-01-04,Gloves,Clothing,Retail,Consumer,Giza,15,3,0.1,40.5,2020,1,4,1
+2020-01-04,Bib-Shorts,Clothing,Whole Sale,Consumer,Giza,12,3,0.13,31.32,2020,1,4,1
+2020-01-04,Cargo Bike,Bikes,Retail,Consumer,Giza,246,3,0.1,664.2,2020,1,4,1
+2020-01-04,Saddles,Components,Retail,Business,Giza,3,3,0.12,7.92,2020,1,4,1
+2020-01-04,Caps,Clothing,Door to Door,Consumer,Giza,13,2,0.1,23.400000000000002,2020,1,4,1
+2020-01-04,Road Bikes,Bikes,Key Accounts,Business,Giza,74,3,0.15,188.7,2020,1,4,1
+2020-01-04,Mountain Bikes,Bikes,Retail,Consumer,Giza,223,3,0.11,595.41,2020,1,4,1
+2020-01-04,Cargo Bike,Bikes,Door to Door,Business,Giza,246,1,0.14,211.56,2020,1,4,1
+2020-01-04,Handlebars,Components,Whole Sale,Consumer,Giza,7,3,0.11,18.69,2020,1,4,1
+2020-01-04,Tights,Clothing,Key Accounts,Business,Giza,12,2,0.13,20.88,2020,1,4,1
+2020-01-04,Socks,Clothing,Key Accounts,Consumer,Giza,13,2,0.12,22.88,2020,1,4,1
+2020-01-04,Lights,Accessories,Whole Sale,Business,Giza,7,3,0.14,18.06,2020,1,4,1
+2020-01-04,Chains,Components,Retail,Consumer,Giza,6,3,0.13,15.66,2020,1,4,1
+2020-01-04,Gloves,Clothing,Key Accounts,Consumer,Giza,15,1,0.11,13.35,2020,1,4,1
+2020-01-04,Tights,Clothing,Door to Door,Business,Giza,12,1,0.11,10.68,2020,1,4,1
+2020-01-04,Tights,Clothing,Door to Door,Consumer,Giza,12,1,0.12,10.56,2020,1,4,1
+2020-01-04,Road Bikes,Bikes,Door to Door,Business,Giza,74,2,0.11,131.72,2020,1,4,1
+2020-01-04,Cargo Bike,Bikes,Door to Door,Consumer,Giza,246,2,0.15,418.2,2020,1,4,1
+2020-01-04,Helmets,Accessories,Retail,Business,Giza,11,2,0.15,18.7,2020,1,4,1
+2020-01-04,Socks,Clothing,Whole Sale,Business,Giza,13,1,0.11,11.57,2020,1,4,1
+2020-01-05,Pumps,Accessories,Door to Door,Consumer,Giza,10,2,0.15,17.0,2020,1,5,1
+2020-01-05,Tights,Clothing,Door to Door,Consumer,Giza,12,3,0.13,31.32,2020,1,5,1
+2020-01-05,Jerseys,Clothing,Whole Sale,Business,Giza,15,3,0.13,39.15,2020,1,5,1
+2020-01-05,Bike Racks,Accessories,Key Accounts,Business,Giza,10,1,0.1,9.0,2020,1,5,1
+2020-01-05,Touring Bikes,Bikes,Retail,Business,Giza,130,3,0.12,343.2,2020,1,5,1
+2020-01-05,Bib-Shorts,Clothing,Door to Door,Consumer,Giza,12,1,0.15,10.2,2020,1,5,1
+2020-01-05,Gloves,Clothing,Door to Door,Consumer,Giza,15,3,0.12,39.6,2020,1,5,1
+2020-01-05,Saddles,Components,Key Accounts,Consumer,Giza,3,2,0.15,5.1,2020,1,5,1
+2020-01-05,Jerseys,Clothing,Retail,Consumer,Giza,15,2,0.13,26.1,2020,1,5,1
+2020-01-05,Pedals,Components,Whole Sale,Consumer,Giza,6,2,0.13,10.44,2020,1,5,1
+2020-01-05,Caps,Clothing,Key Accounts,Business,Giza,13,3,0.14,33.54,2020,1,5,1
+2020-01-05,Socks,Clothing,Door to Door,Consumer,Giza,13,2,0.15,22.099999999999998,2020,1,5,1
+2020-01-05,Touring Bikes,Bikes,Retail,Business,Giza,130,1,0.14,111.8,2020,1,5,1
+2020-01-05,Bike Racks,Accessories,Key Accounts,Consumer,Giza,10,2,0.1,18.0,2020,1,5,1
+2020-01-05,Saddles,Components,Door to Door,Business,Giza,3,1,0.13,2.61,2020,1,5,1
+2020-01-05,Bib-Shorts,Clothing,Key Accounts,Business,Giza,12,2,0.12,21.12,2020,1,5,1
+2020-01-05,Lights,Accessories,Key Accounts,Business,Giza,7,2,0.13,12.18,2020,1,5,1
+2020-01-05,Shorts,Clothing,Door to Door,Consumer,Giza,12,1,0.13,10.44,2020,1,5,1
+2020-01-05,Mountain Bikes,Bikes,Whole Sale,Consumer,Giza,223,3,0.12,588.72,2020,1,5,1
+2020-01-05,Socks,Clothing,Door to Door,Business,Giza,13,2,0.1,23.400000000000002,2020,1,5,1
+2020-01-05,Tights,Clothing,Retail,Business,Giza,12,1,0.15,10.2,2020,1,5,1
+2020-01-05,Bib-Shorts,Clothing,Whole Sale,Consumer,Giza,12,2,0.14,20.64,2020,1,5,1
+2020-01-05,Lights,Accessories,Door to Door,Consumer,Giza,7,3,0.13,18.27,2020,1,5,1
+2020-01-05,Bottom Brackets,Components,Door to Door,Consumer,Giza,3,1,0.14,2.58,2020,1,5,1
+2020-01-05,Bib-Shorts,Clothing,Door to Door,Consumer,Giza,12,2,0.15,20.4,2020,1,5,1
+2020-01-05,Locks,Accessories,Door to Door,Business,Giza,9,2,0.1,16.2,2020,1,5,1
+2020-01-05,Tires and Tubes,Accessories,Key Accounts,Consumer,Giza,8,3,0.11,21.36,2020,1,5,1
+2020-01-06,Shorts,Clothing,Door to Door,Business,Giza,12,1,0.15,10.2,2020,1,6,1
+2020-01-06,Touring Bikes,Bikes,Retail,Consumer,Giza,130,2,0.1,234.0,2020,1,6,1
+2020-01-06,Jerseys,Clothing,Key Accounts,Business,Giza,15,3,0.1,40.5,2020,1,6,1
+2020-01-06,Tights,Clothing,Key Accounts,Business,Giza,12,1,0.13,10.44,2020,1,6,1
+2020-01-06,Handlebars,Components,Retail,Business,Giza,7,1,0.14,6.02,2020,1,6,1
+2020-01-06,Socks,Clothing,Door to Door,Consumer,Giza,13,2,0.13,22.62,2020,1,6,1
+2020-01-06,Caps,Clothing,Whole Sale,Consumer,Giza,13,3,0.14,33.54,2020,1,6,1
+2020-01-06,Gloves,Clothing,Key Accounts,Business,Giza,15,1,0.11,13.35,2020,1,6,1
+2020-01-06,Pumps,Accessories,Whole Sale,Consumer,Giza,10,3,0.11,26.7,2020,1,6,1
+2020-01-06,Socks,Clothing,Whole Sale,Consumer,Giza,13,1,0.13,11.31,2020,1,6,1
+2020-01-06,Touring Bikes,Bikes,Door to Door,Business,Giza,130,2,0.11,231.4,2020,1,6,1
+2020-01-06,Gloves,Clothing,Retail,Business,Giza,15,2,0.1,27.0,2020,1,6,1
+2020-01-06,Cargo Bike,Bikes,Retail,Consumer,Giza,246,2,0.1,442.8,2020,1,6,1
+2020-01-06,Chains,Components,Retail,Business,Giza,6,2,0.14,10.32,2020,1,6,1
+2020-01-06,Vests,Clothing,Key Accounts,Business,Giza,11,2,0.1,19.8,2020,1,6,1
+2020-01-06,Lights,Accessories,Key Accounts,Consumer,Giza,7,2,0.12,12.32,2020,1,6,1
+2020-01-06,Saddles,Components,Retail,Business,Giza,3,1,0.15,2.55,2020,1,6,1
+2020-01-06,Mountain Bikes,Bikes,Retail,Consumer,Giza,223,2,0.11,396.94,2020,1,6,1
+2020-01-06,Wheels,Components,Key Accounts,Consumer,Giza,4,3,0.14,10.32,2020,1,6,1
+2020-01-06,Brakes,Components,Door to Door,Consumer,Giza,5,2,0.11,8.9,2020,1,6,1
+2020-01-06,Brakes,Components,Key Accounts,Consumer,Giza,5,2,0.12,8.8,2020,1,6,1
+2020-01-06,Caps,Clothing,Key Accounts,Consumer,Giza,13,2,0.12,22.88,2020,1,6,1
+2020-01-06,Locks,Accessories,Key Accounts,Business,Giza,9,1,0.13,7.83,2020,1,6,1
+2020-01-06,Cargo Bike,Bikes,Key Accounts,Business,Giza,246,3,0.13,642.06,2020,1,6,1
+2020-01-06,Touring Bikes,Bikes,Whole Sale,Consumer,Giza,130,3,0.14,335.4,2020,1,6,1
+2020-01-06,Touring Bikes,Bikes,Key Accounts,Business,Giza,130,1,0.13,113.1,2020,1,6,1
+2020-01-06,Bottom Brackets,Components,Door to Door,Business,Giza,3,1,0.13,2.61,2020,1,6,1
+2020-01-06,Road Bikes,Bikes,Key Accounts,Business,Giza,74,1,0.1,66.60000000000001,2020,1,6,1
+2020-01-07,Pumps,Accessories,Whole Sale,Business,Giza,10,1,0.15,8.5,2020,1,7,1
+2020-01-07,Touring Bikes,Bikes,Whole Sale,Business,Giza,130,3,0.15,331.5,2020,1,7,1
+2020-01-07,Helmets,Accessories,Retail,Consumer,Giza,11,2,0.12,19.36,2020,1,7,1
+2020-01-07,Jerseys,Clothing,Retail,Consumer,Giza,15,1,0.13,13.05,2020,1,7,1
+2020-01-07,Locks,Accessories,Door to Door,Consumer,Giza,9,1,0.14,7.74,2020,1,7,1
+2020-01-07,Tights,Clothing,Door to Door,Consumer,Giza,12,2,0.15,20.4,2020,1,7,1
+2020-01-07,Touring Bikes,Bikes,Retail,Business,Giza,130,1,0.1,117.0,2020,1,7,1
+2020-01-07,Mountain Bikes,Bikes,Whole Sale,Consumer,Giza,223,2,0.14,383.56,2020,1,7,1
+2020-01-07,Brakes,Components,Key Accounts,Consumer,Giza,5,3,0.1,13.5,2020,1,7,1
+2020-01-07,Helmets,Accessories,Whole Sale,Business,Giza,11,1,0.14,9.459999999999999,2020,1,7,1
+2020-01-07,Road Bikes,Bikes,Key Accounts,Business,Giza,74,1,0.12,65.12,2020,1,7,1
+2020-01-07,Jerseys,Clothing,Key Accounts,Business,Giza,15,1,0.12,13.2,2020,1,7,1
+2020-01-07,Road Bikes,Bikes,Door to Door,Consumer,Giza,74,2,0.15,125.8,2020,1,7,1
+2020-01-07,Bib-Shorts,Clothing,Retail,Business,Giza,12,2,0.12,21.12,2020,1,7,1
+2020-01-07,Brakes,Components,Door to Door,Business,Giza,5,2,0.15,8.5,2020,1,7,1
+2020-01-07,Road Bikes,Bikes,Retail,Consumer,Giza,74,1,0.12,65.12,2020,1,7,1
+2020-01-07,Cargo Bike,Bikes,Whole Sale,Business,Giza,246,3,0.14,634.68,2020,1,7,1
+2020-01-07,Bottom Brackets,Components,Retail,Consumer,Giza,3,3,0.1,8.1,2020,1,7,1
+2020-01-07,Chains,Components,Retail,Business,Giza,6,1,0.13,5.22,2020,1,7,1
+2020-01-07,Handlebars,Components,Door to Door,Business,Giza,7,3,0.13,18.27,2020,1,7,1
+2020-01-07,Shorts,Clothing,Door to Door,Business,Giza,12,1,0.15,10.2,2020,1,7,1
+2020-01-07,Locks,Accessories,Key Accounts,Business,Giza,9,1,0.1,8.1,2020,1,7,1
+2020-01-07,Jerseys,Clothing,Door to Door,Business,Giza,15,1,0.13,13.05,2020,1,7,1
+2020-01-07,Shorts,Clothing,Whole Sale,Consumer,Giza,12,2,0.1,21.6,2020,1,7,1
+2020-01-07,Road Bikes,Bikes,Whole Sale,Consumer,Giza,74,2,0.1,133.20000000000002,2020,1,7,1
+2020-01-07,Locks,Accessories,Door to Door,Consumer,Giza,9,3,0.11,24.03,2020,1,7,1
+2020-01-07,Tires and Tubes,Accessories,Whole Sale,Business,Giza,8,1,0.13,6.96,2020,1,7,1
+2020-01-07,Pedals,Components,Door to Door,Business,Giza,6,3,0.11,16.02,2020,1,7,1

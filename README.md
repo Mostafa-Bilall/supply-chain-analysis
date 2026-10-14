@@ -2,7 +2,7 @@
 
 End-to-end analysis of DataCo supply chain data using SQL Server, Python (pandas) and Power BI: from raw CSV files to a cleaned, normalized database and an interactive dashboard.
 
-![Dashboard](images/dashboard.png)
+![Dashboard Overview](images/OverView.png)
 
 ## Dataset
 
@@ -51,6 +51,23 @@ Three source tables: Customers, Products and Order_Items.
 - **Order status:** orders with the status SUSPECTED_FRAUD and CANCELED both have a "Shipping canceled" delivery status.
 
 All numbers come from the queries in `SQL/SQLQuery_Business_Analysis_AQ.sql` and `SQL/SQLQuery_Anylsis_After_Cleaning.sql`.
+
+## Dashboard Pages
+
+### Sales & Profit Analysis
+![Sales and Profit Analysis](images/Sales%20%26%20Profit%20Alnaysis.png)
+
+### Products
+![Products](images/products.png)
+
+### Customers
+![Customers](images/Customer.png)
+
+### Orders
+![Orders](images/Orders.png)
+
+### Pivot Tables
+![Pivot Tables](images/Pivot%20Tables.png)
 
 ## Repository structure
 
